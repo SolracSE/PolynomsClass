@@ -13,7 +13,7 @@ constructors, etc. It is coded using c++ but commented in Sapanish.
 It will be translated to English soon.
 
 
-#./include/Polinomio.h
+# ./include/Polinomio.h
 
 This file is the header where the class is declared and all of its methods.
 
@@ -21,7 +21,7 @@ You have to include this header to your main.cpp or wherever this class
 will be used.
 
 
-#./src/Polinomio.cpp
+# ./src/Polinomio.cpp
 
 This file contains all the code of the class.
 
