@@ -44,4 +44,5 @@ g++ -o ./bin/EXecutable Polinomio.o main.o
 # Suggestions and questions
 
 Feel free to mail me whenever you want. I will answer as soon as I can.
-My mail are at the top of this file.
+
+My mails are at the top of this file.
