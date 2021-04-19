@@ -2,7 +2,7 @@
 //  El grado máximo será el que ocupe la posición 0 del vector
 //
 //
-//  Clase POolinomio. Hecha por: Carlos Salas Eiroa
+//  Clase Polinomio. Hecha por: Carlos Salas
 ///////////////////////////////////////////////////////////////////////////////
 
 
